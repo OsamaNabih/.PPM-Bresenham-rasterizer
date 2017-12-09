@@ -1,0 +1,6 @@
+cl /W4 /EHsc main.cpp Bresenham.cpp
+
+main -1 1 -1 1 300 300 binaryclock.2d
+main -1 1 -1 1 300 300 spiralbox.2d
+main -1 1 -1 1 300 300 nonagons-box.2d
+main -1 1 -1 1 300 300 starbox.2d

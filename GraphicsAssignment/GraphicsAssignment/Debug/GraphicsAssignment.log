@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\osama\documents\visual studio 2015\projects\graphicsassignment\graphicsassignment\main.cpp(46): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\osama\documents\visual studio 2015\projects\graphicsassignment\graphicsassignment\main.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\osama\documents\visual studio 2015\projects\graphicsassignment\graphicsassignment\main.cpp(49): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\osama\documents\visual studio 2015\projects\graphicsassignment\graphicsassignment\main.cpp(79): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\osama\documents\visual studio 2015\projects\graphicsassignment\graphicsassignment\main.cpp(83): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Bresenham.cpp
+c:\users\osama\documents\visual studio 2015\projects\graphicsassignment\graphicsassignment\bresenham.cpp(15): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
+  GraphicsAssignment.vcxproj -> c:\users\osama\documents\visual studio 2015\Projects\GraphicsAssignment\Debug\GraphicsAssignment.exe
+  GraphicsAssignment.vcxproj -> c:\users\osama\documents\visual studio 2015\Projects\GraphicsAssignment\Debug\GraphicsAssignment.pdb (Partial PDB)
